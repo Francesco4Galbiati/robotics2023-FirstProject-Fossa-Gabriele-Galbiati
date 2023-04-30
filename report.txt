@@ -1,0 +1,12 @@
+Automatically generated report
+
+Group members:
+Fossà, Chiara, id:10724941
+Gabriele, Francesco Maria, id:10710666
+Galbiati, Francesco, id:10728028
+
+Code test:
+1.Package succesfully compiled
+2.Publisher started succesfully
+3.Bag started succesfully
+4.Publisher is publishing data
